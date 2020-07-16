@@ -1,6 +1,6 @@
 from django.db import models
 from django.conf import settings
-from mamazon.models impport Product
+from mamazon.models import Product
 
 User = settings.AUTH_USER_MODEL
 
